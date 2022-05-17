@@ -12,11 +12,13 @@ main {
   margin-top: 40px;
 }
 
+h1 {
+  color: #f51414;
+}
+
 h3 {
   margin-top: 30px;
 }
-
-
 
 .user-stories li {
   margin-bottom: 1em;
